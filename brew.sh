@@ -1,0 +1,15 @@
+brew install gettext
+brew install git
+brew install htop
+brew install icu4c
+brew install nano
+brew install ncurses
+brew install node
+brew install pcre
+brew install pcre2
+brew install powerlevel10k
+brew install speedtest-cli
+brew install zsh
+brew install zsh-autosuggestions
+brew install zsh-completions
+brew install zsh-syntax-highlighting
