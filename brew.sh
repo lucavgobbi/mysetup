@@ -1,23 +1,23 @@
-brew install azure-cli
-brew install azure-functions-core-tools@3
-brew install gdbm
-brew install gettext
-brew install git
-brew install htop
-brew install icu4c
-brew install nano
-brew install ncurses
-brew install node
-brew install openssl@1.1
-brew install pcre
-brew install pcre2
-brew install powerlevel10k
-brew install python@3.8
-brew install readline
-brew install speedtest-cli
-brew install sqlite
-brew install xz
-brew install zsh
-brew install zsh-autosuggestions
-brew install zsh-completions
-brew install zsh-syntax-highlighting
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
