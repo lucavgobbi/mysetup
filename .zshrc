@@ -125,7 +125,7 @@ export EDITOR=/usr/local/bin/nano
 export PATH="$PATH:/Users/lucavgobbi/.dotnet/tools"
 
 # CUSTOM: aliases
-alias sync-settings="brew list -1 | awk '{ print \"brew install \"  $0}' > ~/brew/brew.sh && brew cask list -1 | awk '{ print \"brew cask install \"  $0}' > ~/brew/cask.sh"
+alias sync-settings="~/brew/sync.sh"
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
