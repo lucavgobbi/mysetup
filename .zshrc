@@ -97,7 +97,7 @@ export EDITOR=/usr/local/bin/nano
 export PATH="$PATH:/Users/lucavgobbi/.dotnet/tools"
 
 # CUSTOM: aliases
-alias sync-settings="~/brew/sync.sh"
+alias sync-setup="~/mysetup/sync.sh"
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
