@@ -9,6 +9,7 @@ brew cask install firefox
 brew cask install font-jetbrains-mono
 brew cask install gimp
 brew cask install iterm2
+brew cask install logitech-g-hub
 brew cask install microsoft-azure-storage-explorer
 brew cask install microsoft-edge
 brew cask install microsoft-excel
