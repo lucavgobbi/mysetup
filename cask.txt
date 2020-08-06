@@ -2,6 +2,7 @@ brew cask install 1password
 brew cask install adobe-acrobat-pro
 brew cask install appcleaner
 brew cask install azure-data-studio
+brew cask install discord
 brew cask install docker
 brew cask install dotnet-sdk
 brew cask install firefox
