@@ -1,0 +1,7 @@
+brew tapazure/functions
+brew taphomebrew/cask
+brew taphomebrew/cask-drivers
+brew taphomebrew/cask-fonts
+brew taphomebrew/cask-versions
+brew taphomebrew/core
+brew tapromkatv/powerlevel10k
