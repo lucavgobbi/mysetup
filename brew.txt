@@ -5,10 +5,13 @@ brew installgettext
 brew installgit
 brew installhtop
 brew installicu4c
+brew installipython
+brew installjupyterlab
 brew installnano
 brew installncurses
 brew installnode
 brew installopenssl@1.1
+brew installpandoc
 brew installpcre
 brew installpcre2
 brew installpowerlevel10k
@@ -17,6 +20,7 @@ brew installreadline
 brew installspeedtest-cli
 brew installsqlite
 brew installxz
+brew installzeromq
 brew installzsh
 brew installzsh-autosuggestions
 brew installzsh-completions
