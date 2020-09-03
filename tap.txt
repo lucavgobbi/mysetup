@@ -1,7 +1,7 @@
-brew tapazure/functions
-brew taphomebrew/cask
-brew taphomebrew/cask-drivers
-brew taphomebrew/cask-fonts
-brew taphomebrew/cask-versions
-brew taphomebrew/core
-brew tapromkatv/powerlevel10k
+brew tap azure/functions
+brew tap homebrew/cask
+brew tap homebrew/cask-drivers
+brew tap homebrew/cask-fonts
+brew tap homebrew/cask-versions
+brew tap homebrew/core
+brew tap romkatv/powerlevel10k

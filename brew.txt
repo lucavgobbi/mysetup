@@ -1,27 +1,27 @@
-brew installazure-cli
-brew installazure-functions-core-tools@3
-brew installgdbm
-brew installgettext
-brew installgit
-brew installhtop
-brew installicu4c
-brew installipython
-brew installjupyterlab
-brew installnano
-brew installncurses
-brew installnode
-brew installopenssl@1.1
-brew installpandoc
-brew installpcre
-brew installpcre2
-brew installpowerlevel10k
-brew installpython@3.8
-brew installreadline
-brew installspeedtest-cli
-brew installsqlite
-brew installxz
-brew installzeromq
-brew installzsh
-brew installzsh-autosuggestions
-brew installzsh-completions
-brew installzsh-syntax-highlighting
+brew install azure-cli
+brew install azure-functions-core-tools@3
+brew install gdbm
+brew install gettext
+brew install git
+brew install htop
+brew install icu4c
+brew install ipython
+brew install jupyterlab
+brew install nano
+brew install ncurses
+brew install node
+brew install openssl@1.1
+brew install pandoc
+brew install pcre
+brew install pcre2
+brew install powerlevel10k
+brew install python@3.8
+brew install readline
+brew install speedtest-cli
+brew install sqlite
+brew install xz
+brew install zeromq
+brew install zsh
+brew install zsh-autosuggestions
+brew install zsh-completions
+brew install zsh-syntax-highlighting
