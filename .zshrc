@@ -92,9 +92,11 @@ export SASS_PATH=./node_modules/@syncfusion:./node_modules
 # CUSTOM: change editor
 export EDITOR=/usr/local/bin/nano
 
-# CUSTOM: enable dotnet-tools
+# CUSTOM: PATH
 # Add .NET Core SDK tools
 export PATH="$PATH:/Users/lucavgobbi/.dotnet/tools"
+export PATH="$PATH:/usr/local/anaconda3/bin"
+
 
 # CUSTOM: aliases
 alias sync-setup="~/mysetup/sync.sh"

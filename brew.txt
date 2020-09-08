@@ -5,8 +5,6 @@ brew install gettext
 brew install git
 brew install htop
 brew install icu4c
-brew install ipython
-brew install jupyterlab
 brew install nano
 brew install ncurses
 brew install node
