@@ -4,4 +4,5 @@ brew tap homebrew/cask-drivers
 brew tap homebrew/cask-fonts
 brew tap homebrew/cask-versions
 brew tap homebrew/core
+brew tap microsoft/mssql-release
 brew tap romkatv/powerlevel10k
