@@ -1,4 +1,5 @@
 brew tap azure/functions
+brew tap ggpeti/rmrec
 brew tap homebrew/cask
 brew tap homebrew/cask-drivers
 brew tap homebrew/cask-fonts

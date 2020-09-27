@@ -8,6 +8,7 @@ brew cask install docker
 brew cask install dotnet-sdk
 brew cask install firefox
 brew cask install font-jetbrains-mono
+brew cask install fork
 brew cask install gimp
 brew cask install iterm2
 brew cask install logitech-g-hub
