@@ -20,7 +20,7 @@ brew install mssql-tools
 brew install nano
 brew install ncdu
 brew install ncurses
-brew install node
+brew install node@14
 brew install oniguruma
 brew install openjpeg
 brew install openssl@1.1
