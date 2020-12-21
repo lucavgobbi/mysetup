@@ -9,3 +9,4 @@ brew tap homebrew/core
 brew tap isen-ng/dotnet-sdk-versions
 brew tap microsoft/mssql-release
 brew tap romkatv/powerlevel10k
+brew tap twilio/brew
