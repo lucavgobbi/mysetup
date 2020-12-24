@@ -1,8 +1,12 @@
 brew install adns
+brew install asdf
+brew install autoconf
+brew install automake
 brew install azure-cli
 brew install azure-functions-core-tools@3
 brew install bdw-gc
 brew install c-ares
+brew install coreutils
 brew install gdbm
 brew install gettext
 brew install ghostscript
@@ -33,6 +37,7 @@ brew install libtiff
 brew install libtool
 brew install libunistring
 brew install libusb
+brew install libyaml
 brew install libzip
 brew install little-cms2
 brew install msodbcsql17
@@ -42,8 +47,6 @@ brew install ncdu
 brew install ncurses
 brew install nettle
 brew install nghttp2
-brew install node
-brew install node@14
 brew install npth
 brew install oniguruma
 brew install openjpeg
@@ -56,13 +59,11 @@ brew install pinentry
 brew install pkg-config
 brew install powerlevel10k
 brew install python@3.8
-brew install python@3.9
 brew install readline
 brew install speedtest-cli
 brew install sqlite
 brew install tesseract
 brew install tldr
-brew install twilio
 brew install unbound
 brew install unixodbc
 brew install webp
