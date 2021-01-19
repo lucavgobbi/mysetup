@@ -62,6 +62,7 @@ brew install python@3.8
 brew install readline
 brew install speedtest-cli
 brew install sqlite
+brew install telnet
 brew install tesseract
 brew install tldr
 brew install unbound
