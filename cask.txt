@@ -10,6 +10,7 @@ brew cask install discord
 brew cask install docker
 brew cask install dotnet-sdk
 brew cask install firefox
+brew cask install font-cascadia-code-pl
 brew cask install font-jetbrains-mono
 brew cask install fork
 brew cask install iterm2

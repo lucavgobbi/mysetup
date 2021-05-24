@@ -6,6 +6,7 @@ brew install automake
 brew install azure-cli
 brew install azure-functions-core-tools@3
 brew install bdw-gc
+brew install brotli
 brew install c-ares
 brew install cairo
 brew install coreutils
@@ -22,10 +23,12 @@ brew install glib
 brew install gmp
 brew install gnupg
 brew install gnutls
+brew install go
 brew install guile
 brew install htop
 brew install icu4c
 brew install jasper
+brew install jbig2dec
 brew install jemalloc
 brew install jpeg
 brew install jq
@@ -37,6 +40,7 @@ brew install libevent
 brew install libffi
 brew install libgcrypt
 brew install libgpg-error
+brew install libidn
 brew install libidn2
 brew install libksba
 brew install libpng
@@ -58,6 +62,7 @@ brew install libyaml
 brew install libzip
 brew install little-cms2
 brew install lzo
+brew install m4
 brew install mpdecimal
 brew install msodbcsql17
 brew install mssql-tools
@@ -69,6 +74,7 @@ brew install nghttp2
 brew install npth
 brew install nspr
 brew install nss
+brew install oh-my-posh
 brew install oniguruma
 brew install openjpeg
 brew install openssl@1.1
