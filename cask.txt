@@ -1,7 +1,6 @@
 brew cask install 1password
 brew cask install adobe-acrobat-pro
 brew cask install alfred
-brew cask install anaconda
 brew cask install appcleaner
 brew cask install azure-data-studio
 brew cask install browserosaurus
@@ -32,6 +31,7 @@ brew cask install plantronics-hub
 brew cask install postman
 brew cask install powershell
 brew cask install signal
+brew cask install slack
 brew cask install spectacle
 brew cask install steam
 brew cask install telegram
