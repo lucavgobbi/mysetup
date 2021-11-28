@@ -10,4 +10,5 @@ brew tap isen-ng/dotnet-sdk-versions
 brew tap jandedobbeleer/oh-my-posh
 brew tap microsoft/mssql-release
 brew tap romkatv/powerlevel10k
+brew tap shopify/shopify
 brew tap twilio/brew
