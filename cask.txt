@@ -24,7 +24,6 @@ brew cask install microsoft-excel
 brew cask install microsoft-powerpoint
 brew cask install microsoft-teams
 brew cask install microsoft-word
-brew cask install mono-mdk-for-visual-studio
 brew cask install ngrok
 brew cask install nordvpn
 brew cask install onedrive
@@ -43,4 +42,5 @@ brew cask install the-unarchiver
 brew cask install transmission
 brew cask install twitch
 brew cask install visual-studio-code
+brew cask install vlc
 brew cask install wireshark

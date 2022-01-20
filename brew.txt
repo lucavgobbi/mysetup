@@ -3,7 +3,6 @@ brew install assimp
 brew install autoconf
 brew install automake
 brew install azure-cli
-brew install azure-functions-core-tools@3
 brew install bdw-gc
 brew install brotli
 brew install c-ares
@@ -35,6 +34,7 @@ brew install jemalloc
 brew install jpeg
 brew install jq
 brew install leptonica
+brew install libarchive
 brew install libassuan
 brew install libb2
 brew install libev
@@ -85,6 +85,7 @@ brew install oh-my-posh
 brew install oniguruma
 brew install openjpeg
 brew install openssl@1.1
+brew install openssl@3
 brew install p11-kit
 brew install pcre
 brew install pcre2
