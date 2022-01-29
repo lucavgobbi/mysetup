@@ -9,6 +9,7 @@ brew install c-ares
 brew install ca-certificates
 brew install cairo
 brew install coreutils
+brew install cowsay
 brew install dbus
 brew install double-conversion
 brew install fontconfig
